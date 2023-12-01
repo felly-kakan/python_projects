@@ -1,3 +1,13 @@
+
+
+# Select the Block of Code:
+# Select the block of code that you want to indent.
+
+# Use the Tab Key:
+# Press the "Tab" key on your keyboard to indent the selected block of code.
+
+# Use Shift + Tab to Unindent:
+# If you want to decrease the indentation, use "Shift + Tab."
 import random
 
 def guess_game():
